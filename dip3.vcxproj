@@ -140,11 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dip3.cpp" />
-    <ClCompile Include="func.cpp" />
+    <ClCompile Include="enhancement.cpp" />
     <ClCompile Include="hxlbmpfile.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="func.h" />
+    <ClInclude Include="enhancement.h" />
     <ClInclude Include="hxlbmpfile.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,6 +1,5 @@
 #include "hxlbmpfile.h"
 
-
 HXLBMPFILE::HXLBMPFILE()
 {
 	pImageData = NULL;

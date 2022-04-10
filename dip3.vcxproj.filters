@@ -21,7 +21,7 @@
     <ClCompile Include="hxlbmpfile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="func.cpp">
+    <ClCompile Include="enhancement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +29,7 @@
     <ClInclude Include="hxlbmpfile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="func.h">
+    <ClInclude Include="enhancement.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

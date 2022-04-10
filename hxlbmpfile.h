@@ -1,9 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-#include "stdio.h"
-#include "windows.h"
 #ifndef HXLBMPFILEH
 #define HXLBMPFILEH
+
+#include "stdio.h"
+#include "windows.h"
+
 class HXLBMPFILE
 {
 	BYTE *pImageData;
